@@ -1,1 +1,2 @@
-# dataanalyzing
+# INF 510 Course project
+使用在线API数据库以及通过爬虫获取在线数据，通过数据清理，管理以及分析挖掘阐述说明结论。
